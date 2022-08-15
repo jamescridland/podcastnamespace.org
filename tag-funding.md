@@ -38,3 +38,19 @@ It's supported by [a number of larger podcast apps](https://podcastindex.org/app
 
 It's supported by [large podcast hosts](https://podcastindex.org/apps?appTypes=hosting&elements=Funding) including Buzzsprout, RSS.com, Powerpress by Blubrry, and Transistor.
 
+<script src="https://giscus.app/client.js"
+        data-repo="jamescridland/podcastnamespace.org"
+        data-repo-id="R_kgDOH0hJuA"
+        data-category="General"
+        data-category-id="DIC_kwDOH0hJuM4CQ1a_"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
