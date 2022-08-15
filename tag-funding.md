@@ -26,7 +26,9 @@ This goes in the `<channel>` section of your RSS feed. You can have more than on
 
 The Podnews RSS feed contains: `<podcast:funding url="https://podnews.net/article/advertising">Support us</podcast:funding>`
 
-<i class="pi pi-antennapod"></i> In AntennaPod it is given a prominent place in the podcast information UX:
+### <i class="pi pi-antennapod"></i> AntennaPod
+
+It is given a prominent place in the podcast information UX:
 
 ![Screenshot_20220815-220530](https://user-images.githubusercontent.com/231941/184632448-2b715e7f-bc27-4ad0-be3e-358bd804c1ad.png)
 
@@ -34,5 +36,5 @@ The Podnews RSS feed contains: `<podcast:funding url="https://podnews.net/articl
 
 It's supported by [a number of larger podcast apps](https://podcastindex.org/apps?appTypes=app&elements=Funding) including _Podcast Addict_ and _AntennaPod_, two larger podcast apps for Android.
 
-It's supported by [large podcast hosts](https://podcastindex.org/apps?appTypes=hosting&elements=Funding) including Buzzdprout, RSS.com, Powerpress by Blubrry, and Transistor.
+It's supported by [large podcast hosts](https://podcastindex.org/apps?appTypes=hosting&elements=Funding) including Buzzsprout, RSS.com, Powerpress by Blubrry, and Transistor.
 
