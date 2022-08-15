@@ -13,7 +13,7 @@ The full specification for all the agreed tags is [described in this document](h
 
 ## This website
 
-This website will be a place to give full examples of how to use the new podcast namespace tags. It is editable by the community; and you will also be able to use this to ask questions about implementation.
+This website will be a place to give full examples of how to use the new podcast namespace tags. It is editable by the community; and you will also be able to use this to [ask questions](https://github.com/jamescridland/podcastnamespace.org/discussions) about implementation.
 
 It's edited by James Cridland, the Editor of [Podnews](https://podnews.net); but anyone can submit their edits to make this resource better. If you'd like to help run the site, please contact James at james@crid.land
 
