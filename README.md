@@ -15,6 +15,9 @@ The full specification for all the agreed tags is [described in this document](h
 
 This website will be a place to give full examples of how to use the new podcast namespace tags. It is editable by the community; and you will also be able to use this to [ask questions](https://github.com/jamescridland/podcastnamespace.org/discussions) about implementation.
 
+### As an example...
+* [podcast:funding](https://podcastnamespace.org/tag/funding), a way to link to donation payment links for your podcast
+
 It's edited by James Cridland, the Editor of [Podnews](https://podnews.net); but anyone can submit their edits to make this resource better. If you'd like to help run the site, please contact James at james@crid.land
 
 <i class="pi pi-cczero"></i> This is a public domain, [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) work.
