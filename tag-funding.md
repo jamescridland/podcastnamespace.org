@@ -22,6 +22,14 @@ This goes in the `<channel>` section of your RSS feed. You can have more than on
 <podcast:funding url="https://www.example.com/donations">Give us donations</podcast:funding>
 ```
 
+## Support
+
+This is easy to implement for both podcast hosting companies and podcast apps.
+
+It's supported by [a number of larger podcast apps](https://podcastindex.org/apps?appTypes=app&elements=Funding) including _Podcast Addict_ and _AntennaPod_, two larger podcast apps for Android. It has passed the Apple app store review for at least six iOS apps.
+
+It's supported by [large podcast hosts](https://podcastindex.org/apps?appTypes=hosting&elements=Funding) including Buzzsprout, RSS.com, Powerpress by Blubrry, and Transistor.
+
 ## An example in the wild
 
 The Podnews RSS feed contains: `<podcast:funding url="https://podnews.net/article/advertising">Support us</podcast:funding>`
@@ -31,12 +39,6 @@ The Podnews RSS feed contains: `<podcast:funding url="https://podnews.net/articl
 It is given a prominent place in the podcast information UX:
 
 ![Screenshot_20220815-220530](https://user-images.githubusercontent.com/231941/184632448-2b715e7f-bc27-4ad0-be3e-358bd804c1ad.png)
-
-## Support
-
-It's supported by [a number of larger podcast apps](https://podcastindex.org/apps?appTypes=app&elements=Funding) including _Podcast Addict_ and _AntennaPod_, two larger podcast apps for Android.
-
-It's supported by [large podcast hosts](https://podcastindex.org/apps?appTypes=hosting&elements=Funding) including Buzzsprout, RSS.com, Powerpress by Blubrry, and Transistor.
 
 <script src="https://giscus.app/client.js"
         data-repo="jamescridland/podcastnamespace.org"
