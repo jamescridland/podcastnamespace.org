@@ -1,13 +1,11 @@
 # The new podcast namespace
 **`<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">`**
 - - -
-Since the [first podcast](https://blogs.harvard.edu/lydondev/2003/07/09/spoken-word-a-few-good-bloggers/) in 2003, the medium has been evolving.
+Since the [first podcast](https://blogs.harvard.edu/lydondev/2003/07/09/spoken-word-a-few-good-bloggers/) in 2003, the medium has been evolving. Apple added [their own iTunes podcast namespace in 2005](https://podcasters.apple.com/support/823-podcast-requirements), extending the RSS specification to specify things like podcast artwork, categories and other elements. In 2020, the new podcast namespace was first worked on by a wide number of interested people, aided and encouraged by Adam Curry and Dave Jones from [The Podcast Index](https://podcastindex.org/).
 
-Apple added [their own iTtunes podcast namespace in 2005](https://podcasters.apple.com/support/823-podcast-requirements), extending the RSS specification to specify things like podcast artwork, categories and other elements.
+**The new podcast namespace is a set of new tags that are 100% backwards compatible with existing podcast feeds.** Like the Apple iTunes podcast namespace, the new podcast namespace adds additional features, like transcripts, locations, alternate audio files, and many more benefits for the open podcast ecosystem. You can spot these tags by looking for those that start `<podcast:` in the RSS feed.
 
-In 2020, the new podcast namespace was first worked on by a wide number of interested people, aided and encouraged by Adam Curry and Dave Jones from [The Podcast Index](https://podcastindex.org/). It is a set of new tags that are **100% backwards compatible** with existing podcast feeds. Like the Apple iTunes podcast namespace, the new podcast namespace adds additional features, like transcripts, locations, alternate audio files, and many more benefits for the open podcast ecosystem.
-
-Individual tags are now supported by a growing number of podcast hosting companies and podcast apps.
+Individual tags are now supported by a growing number of [podcast hosting companies](https://podcastindex.org/apps?appTypes=hosting) and [podcast apps](https://podcastindex.org/apps?appTypes=app).
 
 ## The full specification
 
