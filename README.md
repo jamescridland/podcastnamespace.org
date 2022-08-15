@@ -19,4 +19,4 @@ This website will be a place to give full examples of how to use the new podcast
 
 It's edited by James Cridland, the Editor of [Podnews](https://podnews.net); but anyone can submit their edits to make this resource better. If you'd like to help run the site, please contact James at james@crid.land
 
-This is a public domain, [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) work.
+<i class="pi pi-cczero"></i> This is a public domain, [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) work.
