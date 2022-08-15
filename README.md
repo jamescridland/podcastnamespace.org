@@ -1,3 +1,6 @@
+title: The new podcast namespace
+description: Adding new features to podcasting since 2020
+
 # The new podcast namespace
 **`<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">`**
 - - -
