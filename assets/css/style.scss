@@ -4,4 +4,4 @@
 @import "{{ site.theme }}";
 @import url('https://podcastfont.com/releases/202208021835/css/PodcastFont.css');
 
-a {color:#117d0e;}
+a, a:hover, a:focus, a:active {color:#117d0e;} /* Overwrite the default blue with the brand colour */
