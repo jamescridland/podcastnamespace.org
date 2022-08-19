@@ -1,10 +1,10 @@
-@import "fonts";
+/* @import "fonts"; We don't need this since we're just using the system font stack below. */ 
 @import "rouge-github";
 
 body {
   background-color: #fff;
   padding:50px;
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
   font-size: 14px/1.5;
   color:#727272;
   font-weight:400;
@@ -36,13 +36,13 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#117d0e;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+  color:#117d0e;
+  text-decoration:auto;
 }
 
 a small {
