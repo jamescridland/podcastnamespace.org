@@ -1,5 +1,5 @@
 # The new podcast namespace
-**`<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">`**
+**<small>`<rss version="2.0" xmlns:podcast="https://podcastindex.org/namespace/1.0">`</small>**
 - - -
 Since the [first podcast](https://blogs.harvard.edu/lydondev/2003/07/09/spoken-word-a-few-good-bloggers/) in 2003, the medium has been evolving. Apple added [their own iTunes podcast namespace in 2005](https://podcasters.apple.com/support/823-podcast-requirements), extending the RSS specification to specify things like podcast artwork, categories and other elements. In 2020, the new podcast namespace was first worked on by a wide number of interested people, aided and encouraged by Adam Curry and Dave Jones from [The Podcast Index](https://podcastindex.org/).
 
