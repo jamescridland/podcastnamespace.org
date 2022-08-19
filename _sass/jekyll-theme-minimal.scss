@@ -61,6 +61,10 @@ a:hover small {
   margin:0 auto;
 }
 
+ul {list-style-type:"►";padding-left:0;}
+ul > li {margin-left:11px;padding-left:6px;}
+ul > li::marker {color:#117d0e;}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
