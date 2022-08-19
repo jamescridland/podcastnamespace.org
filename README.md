@@ -36,8 +36,8 @@ From [the specification document](https://github.com/Podcastindex-org/podcast-na
 
 This website will be a place to give full examples of how to use the new podcast namespace tags. It is editable by the community; and you will also be able to use this to [ask questions](https://github.com/jamescridland/podcastnamespace.org/discussions) about implementation.
 
-
-### As an example...
+### Examples
 * [podcast:funding](https://podcastnamespace.org/tag/funding), a way to link to donation payment links for your podcast
+* [podcast:transcript](https://podcastnamespace.org/tag/transcript), closed-captions and transcripts for podcasts
 
 It's edited by James Cridland, the Editor of [Podnews](https://podnews.net); but anyone can submit their edits to make this resource better, using the Github link in the bottom right. Alternatively, please contact James at james@crid.land
