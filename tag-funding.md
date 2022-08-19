@@ -40,6 +40,15 @@ It is given a prominent place in the podcast information UX:
 
 ![Screenshot_20220815-220530](https://user-images.githubusercontent.com/231941/184632448-2b715e7f-bc27-4ad0-be3e-358bd804c1ad.png)
 
+### <i class="pi pi-podcastaddict"></i> PodcastAddict
+
+When clicking the player, a number of additional buttons appear, including a "support" button:
+
+![Screenshot_20220819-162934](https://user-images.githubusercontent.com/231941/185557406-9cf0043a-e590-4a46-bd16-32fa720b31a0.png)
+
+
+
+
 <script src="https://giscus.app/client.js"
         data-repo="jamescridland/podcastnamespace.org"
         data-repo-id="R_kgDOH0hJuA"
