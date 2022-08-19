@@ -23,9 +23,9 @@ Transcripts or closed captions can also be used to better identify appropriate a
 
 ## Objections
 
-_"On-device captioning exists on many operating systems"_ or _"It's easy for podcast apps to automatically transcribe audio on demand"_ : true, but automated transcripts are not 100% accurate, and may open up podcasters or app developers to legal challenge. As one example: "Margaret Thatcher beat miners" is historically accurate, but "Margaret Thatcher beat minors" is not; and an allegation of child-beating against a former UK Prime Minister might be sub-optimal.
+_"On-device captioning exists on many operating systems"_ or _"Podcast apps can automatically transcribe audio on demand"_ : this is fine as a fall-back where captions don't exist, but automated transcripts are not 100% accurate, and may open up podcasters or app developers to legal challenge. As one example: "Margaret Thatcher beat miners" is historically accurate, but "Margaret Thatcher beat minors" is not; and an allegation of child-beating against a former UK Prime Minister might be sub-optimal.
 
-_"We have the technology to auto-transcribe, so we'll use that"_ - fine, but in order to properly respect creators' work, your app or service should use a transcript if one is presented to you through the RSS feed, which may be corrected and better quality than an automatic version.
+_"We have the technology to auto-transcribe, so we'll use that"_ : in order to properly respect creators' work, your app or service should use a transcript if one is presented to you through the RSS feed, which may be corrected and better quality than an automatic version.
 
 _"This doesn't work with DAI"_ - this is only true for timed captions, not for transcripts. It's possible to overcome using consistently-timed ad insertion material, or with dynamically-produced caption files. A further revision of this specification may also be able to anchor chapter markers on specific markers within the audio.
 
