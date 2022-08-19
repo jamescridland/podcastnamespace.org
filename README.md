@@ -7,7 +7,7 @@ Since the [first podcast](https://blogs.harvard.edu/lydondev/2003/07/09/spoken-w
 
 Individual tags are now supported by a growing number of [podcast hosting companies](https://podcastindex.org/apps?appTypes=hosting) and [podcast apps](https://podcastindex.org/apps?appTypes=app).
 
-## All the base tags
+## <i class="pi pi-podcasting20certifiedbadge"></i> All the base tags
 
 From [the specification document](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md):
 * [podcast:alternateEnclosure](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#alternate-enclosure) - different bitrates, video versions, etc
