@@ -52,9 +52,10 @@ PodcastAddict displays supplied images in its information page. You can click th
 
 ### Podnews
 
-[Podnews displays](https://podnews.net/podcast/i6i6) the names of the hosts and the links. It filters for hosts only.
+[Podnews displays](https://podnews.net/podcast/i6i6) the names of the hosts and the links (in the above, Kevin Finn doesn't have a link so his name is not clickable). Podnews filters for hosts only.
 
-<img width="884" alt="Screen Shot 2022-09-03 at 3 00 19 pm" src="https://user-images.githubusercontent.com/231941/188256535-4dd315c3-ce5c-41e2-973b-299941b8e1be.png">
+<img width="881" alt="Screen Shot 2022-09-03 at 3 24 15 pm" src="https://user-images.githubusercontent.com/231941/188257091-41fbc8b7-c688-4e0f-9c20-dacb765fbc42.png">
+
 
 <script src="https://giscus.app/client.js"
         data-repo="jamescridland/podcastnamespace.org"
