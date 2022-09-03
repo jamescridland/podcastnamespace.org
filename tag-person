@@ -1,0 +1,64 @@
+---
+title: "podcast:person"
+permalink: /tag/person
+---
+
+# <i class="pi pi-tag-funding"></i>podcast:person
+**A way to list hosts and other people involved with the podcast**
+
+* [The official specification](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#person)
+
+- - -
+
+This tag is for you if you want to highlight the people involved in your podcast: your hosts, guests, composers and other people.
+
+It defaults to a simple way to list your hosts, but you can use the [full podcast taxonomy list](https://podcasttaxonomy.com/) here, to highlight almost everyone in your podcast that you think is deserving of a credit.
+
+Some podcast directories might use this to enhance search (so, by searching for a person it finds all the podcasts they're associated with, for example).
+
+
+
+
+
+## Support
+
+This is easy to implement for both podcast hosting companies and podcast apps.
+
+It's supported by [a number of larger podcast apps](https://podcastindex.org/apps?appTypes=app&elements=Funding) including _Podcast Addict_ and _AntennaPod_, two larger podcast apps for Android. It has passed the Apple app store review for at least six iOS apps.
+
+It's supported by [large podcast hosts](https://podcastindex.org/apps?appTypes=hosting&elements=Funding) including Buzzsprout, RSS.com, Powerpress by Blubrry, and Transistor.
+
+## Suggestions
+
+The specification allows for images and links for each contributor. Sanitising these fields before display is recommended.
+
+You might want to use Google's suggested `rel="ugc"` attribute to the links, to signal that these are user generated content. You might also consider caching and resizing the images for each person, to ensure fast page loads and lower bandwidth costs for podcasters.
+
+Some users of this data may only take the `<channel>` element, 
+
+## An example in the wild
+
+The Buzzcast podcast contains, in the `<channel>` element,
+`<podcast:funding url="https://podnews.net/article/advertising">Support us</podcast:funding>`
+
+### Podnews
+
+[Podnews displays](https://podnews.net/podcast/i6i6) the names of the hosts and the links.
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="jamescridland/podcastnamespace.org"
+        data-repo-id="R_kgDOH0hJuA"
+        data-category="General"
+        data-category-id="DIC_kwDOH0hJuM4CQ1a_"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
