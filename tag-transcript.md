@@ -29,26 +29,6 @@ _"We have the technology to auto-transcribe, so we'll use that"_ : in order to p
 
 _"This doesn't work with DAI"_ - this is only true for timed captions, not for transcripts. It's possible to overcome using consistently-timed ad insertion material, or with dynamically-produced caption files. A further revision of this specification may also be able to anchor chapter markers on specific markers within the audio.
 
-## An example of how to use it
-
-This goes in the `<item>` section of your RSS feed. A link to closed-captions:
-
-```
-<podcast:transcript
- url="https://mp3s.nashownotes.com/PC20-97-Captions.srt"
- type="application/srt"
-/>
-```
-
-A link to a transcript:
-
-```
-<podcast:transcript
- url="https://podnews.net/transcript/blubrry-programmatic"
- type="text/html"
-/>
-```
-
 ## Support
 
 ### Podcast hosting companies
