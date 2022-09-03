@@ -12,19 +12,9 @@ permalink: /tag/guid
 
 ## What's the point of this?
 
-Podcasting is decentralized.  There is no single point of registration or tracking.  Also, podcasts move - a lot.  
-This means that keeping track of which feed urls currently go with which podcasts is a real nightmare.  The podcast
-guid tag does for podcasts what the episode guid tag does for episodes.  It assigns a globally unique ID to every
-podcast so that the world can know that two different feeds are actually the same thing - or not.
+Podcasting is decentralized.  There is no single point of registration or tracking.  Also, podcasts move - a lot. This means that keeping track of which feed urls currently go with which podcasts is a real nightmare.
 
-
-## An example of how to use it
-
-This goes in the `<channel>` section of your RSS feed. You should only ever put one of these in your feed.
-
-```xml
-<podcast:guid>917393e3-1b1e-5cef-ace4-edaa54e1f810</podcast:guid>
-```
+The podcast guid tag does for podcasts what the episode guid tag does for episodes.  It assigns a globally unique ID to every podcast so that the world can know that two different feeds are actually the same thing - or not. Even if the podcast changes RSS address or name, the GUID sticks with it for the rest of its life.
 
 ## Support
 
@@ -34,11 +24,18 @@ It's supported by [large podcast hosts](https://podcastindex.org/apps?appTypes=h
 
 ## An example in the wild
 
-The Podnews RSS feed contains: 
+The Podland RSS feed contains: 
 
 ```xml
-<podcast:guid>9b024349-ccf0-5f69-a609-6b82873eab3c</podcast:guid>
+<podcast:guid>396d9ae0-da7e-5557-b894-b606231fa3ea</podcast:guid>
 ```
+
+Because this GUID will never change, it means that this link:
+
+[https://podnews.net/podcast/396d9ae0-da7e-5557-b894-b606231fa3ea](https://podnews.net/podcast/396d9ae0-da7e-5557-b894-b606231fa3ea)
+
+will also always find the podcast, even though Podnews's podcast pages use a separate, proprietary ID.
+
 
 
 
