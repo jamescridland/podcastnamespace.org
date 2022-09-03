@@ -3,7 +3,7 @@ title: "podcast:person"
 permalink: /tag/person
 ---
 
-# <i class="pi pi-tag-funding"></i>podcast:person
+# <i class="pi pi-tag-person"></i>podcast:person
 **A way to list hosts and other people involved with the podcast**
 
 * [The official specification](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#person)
