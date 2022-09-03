@@ -16,10 +16,6 @@ It defaults to a simple way to list your hosts, but you can use the [full podcas
 
 Some podcast directories might use this to enhance search (so, by searching for a person it finds all the podcasts they're associated with, for example).
 
-
-
-
-
 ## Support
 
 This is easy to implement for both podcast hosting companies and podcast apps.
@@ -33,8 +29,6 @@ It's supported by [large podcast hosts](https://podcastindex.org/apps?appTypes=h
 The specification allows for images and links for each contributor. Sanitising these fields before display is recommended.
 
 You might want to use Google's suggested `rel="ugc"` attribute to the links, to signal that these are user generated content. You might also consider caching and resizing the images for each person, to ensure fast page loads and lower bandwidth costs for podcasters.
-
-Some users of this data may only take the `<channel>` element, 
 
 ## An example in the wild
 
