@@ -44,12 +44,23 @@ The Buzzcast podcast contains, in the `<channel>` element,
   <podcast:person role="host" img="https://storage.buzzsprout.com/variants/iwguve03cmi6mwynebgillvq88q2/101950687c70b7e2f9ca148685b2ebc23e16838eb1d84e62f976687a774717da.jpeg">Kevin Finn</podcast:person>
 ```
 
+### Podcast Guru
+
+Podcast Guru uses the supplied images, as well as the names of the hosts.
+
+![IMG_0088](https://user-images.githubusercontent.com/231941/188256866-9d4c70d2-dd0a-4e32-a7f0-8400f9e167ef.PNG)
+
+### PodcastAddict
+
+PodcastAddict displays supplied images in its information page. You can click the image to open the website link, and search for that person in new podcasts.
+
+![Screenshot_20220903-151107](https://user-images.githubusercontent.com/231941/188256905-ffb1d5c9-4d44-40a8-9dbb-91eac9fcb4d0.png)
+
 ### Podnews
 
-[Podnews displays](https://podnews.net/podcast/i6i6) the names of the hosts and the links.
+[Podnews displays](https://podnews.net/podcast/i6i6) the names of the hosts and the links. It filters for hosts only.
 
 <img width="884" alt="Screen Shot 2022-09-03 at 3 00 19 pm" src="https://user-images.githubusercontent.com/231941/188256535-4dd315c3-ce5c-41e2-973b-299941b8e1be.png">
-
 
 <script src="https://giscus.app/client.js"
         data-repo="jamescridland/podcastnamespace.org"
