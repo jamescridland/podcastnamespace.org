@@ -39,11 +39,16 @@ Some users of this data may only take the `<channel>` element,
 ## An example in the wild
 
 The Buzzcast podcast contains, in the `<channel>` element,
-`<podcast:funding url="https://podnews.net/article/advertising">Support us</podcast:funding>`
+```xml
+ <podcast:person role="host" href="https://twitter.com/albanbrooke" img="https://storage.buzzsprout.com/variants/byutxwmvq601x1sny2gtnsyc3fmd/101950687c70b7e2f9ca148685b2ebc23e16838eb1d84e62f976687a774717da.jpeg">Alban Brooke</podcast:person>
+  <podcast:person role="host" img="https://storage.buzzsprout.com/variants/iwguve03cmi6mwynebgillvq88q2/101950687c70b7e2f9ca148685b2ebc23e16838eb1d84e62f976687a774717da.jpeg">Kevin Finn</podcast:person>
+```
 
 ### Podnews
 
 [Podnews displays](https://podnews.net/podcast/i6i6) the names of the hosts and the links.
+
+<img width="884" alt="Screen Shot 2022-09-03 at 3 00 19 pm" src="https://user-images.githubusercontent.com/231941/188256535-4dd315c3-ce5c-41e2-973b-299941b8e1be.png">
 
 
 <script src="https://giscus.app/client.js"
