@@ -14,14 +14,6 @@ This tag is for you if you have a PayPal or Patreon page that asks your listener
 
 You can use it to link anywhere: services like _Buy Me A Coffee_, or even a [Stripe payment link](https://stripe.com/en-au/payments/payment-links), like [this $5 tip jar](https://buy.stripe.com/6oEbLU2OC6cG22c144) that Podnews set up. Or, you can use it to go to a page with details about advertising or support.
 
-## An example of how to use it
-
-This goes in the `<channel>` section of your RSS feed. You can have more than one link according to the specification.
-
-```
-<podcast:funding url="https://www.example.com/donations">Give us donations</podcast:funding>
-```
-
 ## Support
 
 This is easy to implement for both podcast hosting companies and podcast apps.
