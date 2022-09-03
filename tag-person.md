@@ -18,11 +18,9 @@ Some podcast directories might use this to enhance search (so, by searching for 
 
 ## Support
 
-This is easy to implement for both podcast hosting companies and podcast apps.
+This is easy to implement for podcast apps. It's supported by [a number of larger podcast apps](https://podcastindex.org/apps?appTypes=app&elements=Person) including _Podcast Addict_ and _Podcast Guru_.
 
-It's supported by [a number of larger podcast apps](https://podcastindex.org/apps?appTypes=app&elements=Funding) including _Podcast Addict_ and _AntennaPod_, two larger podcast apps for Android. It has passed the Apple app store review for at least six iOS apps.
-
-It's supported by [large podcast hosts](https://podcastindex.org/apps?appTypes=hosting&elements=Funding) including Buzzsprout, RSS.com, Powerpress by Blubrry, and Transistor.
+For podcast hosting companies, it needs additional UX building for the user. It's supported by [some large podcast hosts](https://podcastindex.org/apps?appTypes=hosting&elements=Person) including Buzzsprout, Fireside and Sounder. Some podcast hosting companies only support this on the `<channel>` element, rather than on a per-show basis.
 
 ## Suggestions
 
