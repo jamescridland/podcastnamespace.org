@@ -39,6 +39,7 @@ This website will be a place to give full examples of how to use the new podcast
 ### Examples
 * [podcast:funding](https://podcastnamespace.org/tag/funding), a way to link to donation payment links for your podcast
 * [podcast:guid](https://podcastnamespace.org/tag/guid), unique, global identifier for a podcast
+* [podcast:person](https://podcastnamespace.org/tag/person), credits for hosts, guests and others
 * [podcast:transcript](https://podcastnamespace.org/tag/transcript), closed-captions and transcripts for podcasts
 
 It's edited by James Cridland, the Editor of [Podnews](https://podnews.net); but anyone can submit their edits to make this resource better, using the Github link in the bottom left. Alternatively, please contact James at james@crid.land
