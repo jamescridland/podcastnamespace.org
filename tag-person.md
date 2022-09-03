@@ -50,6 +50,12 @@ PodcastAddict displays supplied images in its information page. You can click th
 
 ![Screenshot_20220903-151107](https://user-images.githubusercontent.com/231941/188256905-ffb1d5c9-4d44-40a8-9dbb-91eac9fcb4d0.png)
 
+### Podfriend
+
+Podfriend [shows the images on a podcast page](https://web.podfriend.com/podcast/buzzcast). You can click through to the person's web link.
+
+<img width="1472" alt="Screen Shot 2022-09-03 at 3 28 36 pm" src="https://user-images.githubusercontent.com/231941/188257242-14bbefbc-637c-4ffb-adf5-a03eeb578a69.png">
+
 ### Podnews
 
 [Podnews displays](https://podnews.net/podcast/i6i6) the names of the hosts and the links (in the above, Kevin Finn doesn't have a link so his name is not clickable). Podnews filters for hosts only.
