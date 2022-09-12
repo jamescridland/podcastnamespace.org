@@ -36,7 +36,7 @@ RSS.com integrated the [Alby Podcaster Wallet API](https://blog.getalby.com/intr
 
 Listen on a <value:tag> enabled podcast player such as Fountain.fm, select the podcast and send a payment with a message (boostagram).
 
-<iframe width="300" height="300" src="https://www.youtube-nocookie.com/embed/mWm2H5I-9gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="300" src="https://www.youtube-nocookie.com/embed/U3nrfGNq2DA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <script src="https://giscus.app/client.js"
