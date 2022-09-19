@@ -28,7 +28,7 @@ It's supported by [a number of podcast apps](https://podcastindex.org/apps?appTy
 
 It's supported by [large podcast hosts](https://podcastindex.org/apps?appTypes=hosting&elements=Value) including  _RSS.com_, _Castos_, _JustCast_ and _RSS Blue_.
 
-There are guides available for podcasters such as the [Value for Value Podcaster Guide](https://guides.getalby.com/podcaster-guide/)
+This monetization model is based on Value for Value. Listeners give value back to the podcaster. Learn more about it [here](https://value4value.info/)
 
 ## An example in the wild
 
