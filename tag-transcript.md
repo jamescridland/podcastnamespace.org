@@ -36,6 +36,8 @@ This is simple to implement for podcast hosting companies. The file can exist on
 
 It's one of the most well-supported tags by [large podcast hosts](https://podcastindex.org/apps?appTypes=hosting&elements=Transcript), including Buzzsprout, Captivate, Fireside and RSS.
 
+Tip: like audio, ensure that CORS headers are set and open, so that everyone can use the files.
+
 ### Podcast apps
 
 For podcast apps, linking to transcripts is a simple webview with accompanying UX.
