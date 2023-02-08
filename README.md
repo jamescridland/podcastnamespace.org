@@ -27,7 +27,7 @@ From [the specification document](https://github.com/Podcastindex-org/podcast-na
 * [podcast:person](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#person) - credits for hosts and guests
 * [podcast:season](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#season) - named seasons/series
 * [podcast:socialInteract](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#social-interact) - comments for podcast episodes
-* [podcast:soundbites](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#soundbite) - suggested clips
+* [podcast:soundbite](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#soundbite) - suggested clips
 * [podcast:trailer](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#trailer) - specify a trailer (per season)
 * [podcast:transcript](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#transcript) - captions and transcripts for podcasts
 * [podcast:value](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#value) - a payment layer for podcasts
