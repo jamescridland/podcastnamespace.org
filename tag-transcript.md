@@ -27,9 +27,13 @@ _"On-device captioning exists on many operating systems"_ or _"Podcast apps can 
 
 _"We have the technology to auto-transcribe, so we'll use that"_ : in order to properly respect creators' work, your app or service should use a transcript if one is presented to you through the RSS feed, which may be corrected and better quality than an automatic version.
 
-_"This doesn't work with DAI"_ - this is only true for timed captions, not for transcripts. It's possible to overcome using consistently-timed ad insertion material, or with dynamically-produced caption files. A further revision of this specification may also be able to anchor chapter markers on specific markers within the audio.
-
 ## Support
+
+### Apple Podcasts
+
+**This is the first new podcast namespace feature to be explicitly supported by Apple.** Indeed, we're told that VTT files from publishers are the only way to enable support for multiple named speakers. You can opt-in, through Apple Podcasts Connect, to ingest new transcriptions from your podcast host via RSS. Support for the public will be seen in Spring 2024 with the launch of iOS 14.7. It is visible now on the developer beta of iOS 14.7.
+
+Podnews has [detailed information on how Apple Podcasts Transcriptions work](https://podnews.net/article/apple-podcasts-transcriptions-faq).
 
 ### Podcast hosting companies
 This is simple to implement for podcast hosting companies. The file can exist on a third-party website, so this work can be provided by a subcontractor or service that a podcaster may wish to use. Transcripts may be a product differentiator for you, or you may be able to achieve additional revenue by providing this service in a premium tier.
@@ -48,6 +52,8 @@ Both the [CC] icon and a subtitle icon are [part of Android's Material Icon](htt
 
 It's supported by [a number of larger podcast apps](https://podcastindex.org/apps?appTypes=app&elements=Transcript) including _Podcast Addict_, one of the more popular podcast apps for Android, along with PodLP for KaiOS devices, and a wide variety of apps for iOS, Android and the web.
 
+Podnews contains full details of [support from Apple Podcasts](https://podnews.net/article/apple-podcasts-transcriptions-faq). Apple's support is opt-in, and uses the VTT (or an SRT fallback) file, which it then matches to the audio.
+
 ## Examples in the wild
 
 The Podcasting 2.0 show ([RSS](http://mp3s.nashownotes.com/pc20rss.xml)) includes closed captions, using an SRT file.
@@ -55,6 +61,10 @@ The Podcasting 2.0 show ([RSS](http://mp3s.nashownotes.com/pc20rss.xml)) include
 Listen on the web [using PodFriend](https://web.podfriend.com/podcast/podcasting-20/9485400086) - click "play this episode" to see the closed captions automatically appearing as you listen.
 
 <iframe width="300" height="300" src="https://www.youtube-nocookie.com/embed/o_DftGS5f88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Apple Podcasts support looks like this. This video shows Apple's own automatic transcripts, but will look identical for publisher-supplies VTT files.
+
+<iframe width="300" height="300" src="https://www.youtube-nocookie.com/embed/-9chg0DHtN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <script src="https://giscus.app/client.js"
         data-repo="jamescridland/podcastnamespace.org"
