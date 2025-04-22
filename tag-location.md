@@ -29,7 +29,7 @@ Cathedral of Notre Dame
 
 The `country` element is a simple two-character code for the country, and it's here to allow easy identification of countries in a database without having to geo-locate every single location.
 
-The `geo` element puts a point on Planet Earth (or, if start it with something like `lunar:`, on the moon, perhaps). You'll be familiar with lat/lon points. The difficulty with lat/lon points is that - well, they're just points. They don't tell you anything about the point. You don't even know how big it is - or what it is. You only know where it is.
+The `geo` element puts a point on Planet Earth (or, if it starts with something like `lunar:`, on the moon, perhaps?). You'll be familiar with lat/lon points. The difficulty with lat/lon points is that - well, they're just points. They don't tell you anything about the point. You don't even know how big it is - or what it is. You only know where it is.
 
 So that's why the `osm` element is there. While the osm element is written in the specification as highly recommended but optional, you *lose a lot of the functionality* of this tag if you omit it, so it's, as it says, highly recommended.
 
