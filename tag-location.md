@@ -64,7 +64,7 @@ So, let's consider how you'd make an app that automatically grabs all podcast ep
 
 Oh, and remember I mentioned that Notre Dame was in the gothic style? Let's find [all cathedrals in France in a gothic style](https://overpass-turbo.eu/s/22Jf).
 
-OpenStreetMap is very powerful - you can get it to return, for example, "[all wineries in Adelaide](https://overpass-turbo.eu/s/22Ji)", and very quickly build a wine website covering the area - with links to podcasts about them, where it makes sense.
+OpenStreetMap is very powerful - you can get it to return, for example, "[all wineries in Adelaide](https://overpass-turbo.eu/s/22Ji)", and very quickly build a wine website covering the area - with links to podcasts about them, where it makes sense. (And, by the way, most AI tools will accept a prompt like "Write a query for Overpass showing all wineries in Adelaide").
 
 Know that this information is there for every object in OpenStreetMap - but also know that *you can't do this with a lat/lon*. 
 
